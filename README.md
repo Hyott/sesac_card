@@ -2,6 +2,11 @@
 SeSac Fintechers3 - Card Recommendation Chat bot
 
 
+![image](https://github.com/user-attachments/assets/2bd8301d-81cf-4806-930f-6da0aa67434b)
+
+
+
+
 # 카드 추천 챗봇 서비스
 
 ## 프로젝트 소개
